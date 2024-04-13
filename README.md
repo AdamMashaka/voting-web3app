@@ -26,3 +26,13 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+
+Then the terminal wiil open the local host 
+
+```most is
+     5500 port
+```
+
+Thank you to visit me 
+
+[Github account](https://Github.com/AdamMashaka)
