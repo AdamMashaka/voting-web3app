@@ -62,3 +62,5 @@ constructor(string[] memory _candidateNames, uint256 _durationInMinutes) {
         return votingEnd - block.timestamp;
     }
 }
+
+//Thank you to use my services 
